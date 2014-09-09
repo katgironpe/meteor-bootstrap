@@ -1,12 +1,12 @@
 # Meteor &amp; Bootstrap Template
 
-A starter boilerplate app template for [Meteor](http://meteor.com) using [IronRouter](https://github.com/EventedMind/iron-router).
+A starter boilerplate app template for [Meteor](http://meteor.com) using [IronRouter](https://github.com/EventedMind/iron-router) and Twitter Boostrap.
 
-Void is based on [Telescope](http://telesc.pe) (an open-source social news app) and is bought to you by the [Discover Meteor](https://www.discovermeteor.com) team. 
+This is based on [Void](https://github.com/SachaG/Void) template.
 
 ## Installation
 
-If you already have Meteor and [Meteorite](https://github.com/oortcloud/meteorite/), Void is ready to go. Just clone it locally, run it with `mrt`, and start coding!
+If you already have Meteor and [Meteorite](https://github.com/oortcloud/meteorite/), the template is ready to go. Just clone it locally, run it with `mrt`, and start coding!
 
 If not, here are the full instructions:
 
